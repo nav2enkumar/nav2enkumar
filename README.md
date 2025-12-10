@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+I'm a Cyber Security expert holding strong technical expertise in Security Operations, Threat Detection and Hunting, Incident Management and Reponse, Web Application Penetration Testing, Security Engineering and Automation.<br>Expertise: <br>💻 Threat Hunting, Incident Investigation & Response<br>💻 Vulnerability Assessment & Penetration Testing<br>💻 Web Application Penetration Testing <br>💻 SOC Administration & Engineering<br>💻 Security Operations & Monitoring<br>💻 Social Engineering & OSINT<br>💻 Security Scripting & Automation<br>💻 Ethical Hacking
 
-<!--
-**nav2enkumar/nav2enkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hacurity_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nav2enkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nav23nkumar@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nav2enkumar&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nav2enkumar&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nav2enkumar&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nav2enkumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nav2enkumar&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nav2enkumar&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
