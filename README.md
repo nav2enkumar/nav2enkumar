@@ -1,5 +1,15 @@
 # 💫 Know me Buddy:
-I'm a Cyber Security expert holding strong technical expertise in Security Operations, Threat Detection and Hunting, Incident Management and Reponse, Web Application Penetration Testing, Security Engineering and Automation.<br>Expertise: <br>💻 Threat Hunting, Incident Investigation & Response<br>💻 Vulnerability Assessment & Penetration Testing<br>💻 Web Application Penetration Testing <br>💻 SOC Administration & Engineering<br>💻 Security Operations & Monitoring<br>💻 Social Engineering & OSINT<br>💻 Security Scripting & Automation<br>💻 Ethical Hacking
+I'm a Cyber Security expert holding strong technical expertise in Security Operations, Threat Detection and Hunting, Incident Management and Reponse, Web Application Penetration Testing, Security Engineering and Automation.
+
+## Expertise
+💻 Threat Hunting, Incident Investigation & Response
+💻 Vulnerability Assessment & Penetration Testing
+💻 Web Application Penetration Testing
+💻 SOC Administration & Engineering
+💻 Security Operations & Monitoring
+💻 Social Engineering & OSINT
+💻 Security Scripting & Automation
+💻 Ethical Hacking
 
 
 ## 🌐 Socials:
@@ -16,6 +26,3 @@ I'm a Cyber Security expert holding strong technical expertise in Security Opera
 ![](https://github-contributor-stats.vercel.app/api?username=nav2enkumar&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nav2enkumar&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
