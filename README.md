@@ -2,14 +2,14 @@
 I'm a Cyber Security expert holding strong technical expertise in Security Operations, Threat Detection and Hunting, Incident Management and Reponse, Web Application Penetration Testing, Security Engineering and Automation.
 
 ## Expertise
-💻 Threat Hunting, Incident Investigation & Response
-💻 Vulnerability Assessment & Penetration Testing
-💻 Web Application Penetration Testing
-💻 SOC Administration & Engineering
-💻 Security Operations & Monitoring
-💻 Social Engineering & OSINT
-💻 Security Scripting & Automation
-💻 Ethical Hacking
+🕵🏼‍♂️ Threat Hunting, Incident Investigation & Response <br>
+🕵🏼‍♂️ Vulnerability Assessment & Penetration Testing <br>
+🕵🏼‍♂️ Web Application Penetration Testing <br>
+🕵🏼‍♂️ SOC Administration & Engineering <br>
+🕵🏼‍♂️ Security Operations & Monitoring <br>
+🕵🏼‍♂️ Social Engineering & OSINT <br>
+🕵🏼‍♂️ Security Scripting & Automation <br>
+🕵🏼‍♂️ Ethical Hacking <br>
 
 
 ## 🌐 Socials:
